@@ -7,9 +7,9 @@
   <h1>👑 Senior AI & Full Stack Developer 👑</h1>
 </div>
 
-<table style="border: none">
-  <tr style="border: none">
-    <td width="50%" style="border: none">
+<table border="none">
+  <tr>
+    <td width="50%">
       <p>
         Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 &
         Cryptocurrency engineer with over 4 years of experience in BlockChain and
@@ -22,7 +22,7 @@
         phases of the project life cycle.
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" >
       <img
         alt="GIF"
         src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif"
