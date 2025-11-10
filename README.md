@@ -27,7 +27,7 @@
         alt="GIF"
         src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif"
         width="100%"
-        height="400px"
+        height="300px"
       />
     </td>
   </tr>
