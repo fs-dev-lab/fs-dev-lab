@@ -7,7 +7,7 @@
   <h1>👑 Senior AI & Full Stack Developer 👑</h1>
 </div>
 
-<div align="right" style="height: 400; width: 400">
+<div align="right" style="height: 400px; width: 400px">
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="100%" height="100%" />
 </div>
 
