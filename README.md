@@ -1,10 +1,8 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=header&text=Welcome%20to%20my%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=header&text=Senior%20AI%20&%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
   />
-
-  <h1>👑 Senior AI & Full Stack Developer 👑</h1>
 </div>
 
 <div align="center">
