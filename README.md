@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Fixed Animated Header with Better Sizing -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=VIMAL%20DHAMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quantitative%20Finance%20%7C%20AI%20%7C%20Algorithmic%20Trading&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Welcome%20to%20my%20Github!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ## 🎯 Quantitative Finance Analyst | 🤖 AI & ML Engineer | 📊 Algo Trading Specialist
 
@@ -23,55 +23,60 @@
 <td width="20%" align="center">
 
 ### 👤 **Identity**
+
 ![Identity](https://img.shields.io/badge/Identity-Profile-4A4A8C?style=for-the-badge&logo=user&logoColor=white)
 
 **Name:** Vimal Dhama  
 **Title:** Quantitative Finance Analyst  
 **Education:** B.Tech CS & AI  
 **University:** Presidency University  
-**Location:** India 🇮🇳  
+**Location:** India 🇮🇳
 
 </td>
 <td width="20%" align="center">
 
 ### ⚡ **Expertise**
+
 ![Expertise](https://img.shields.io/badge/Expertise-Advanced-00B894?style=for-the-badge&logo=target&logoColor=white)
 
 **Primary:** Quant Finance, Algo Trading  
 **Secondary:** AI/ML, Blockchain  
-**Specialized:** Risk Mgmt, Portfolio Optimization  
+**Specialized:** Risk Mgmt, Portfolio Optimization
 
 </td>
 <td width="20%" align="center">
 
 ### 📊 **Metrics**
+
 ![Metrics](https://img.shields.io/badge/Performance-Metrics-FF6B35?style=for-the-badge&logo=chart-line&logoColor=white)
 
 **Sharpe Ratio:** 2.1  
 **Alpha Generation:** 15.2%  
 **Prediction Accuracy:** 92.3%  
-**Automation Efficiency:** 40%  
+**Automation Efficiency:** 40%
 
 </td>
 <td width="20%" align="center">
 
 ### 🚀 **Missions**
+
 ![Missions](https://img.shields.io/badge/Current-Missions-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white)
 
 **CFA Level I** (In Progress)  
 **Advanced Derivatives** Research  
 **RL Trading Systems** Development  
-**DeFi Analytics** Specialization  
+**DeFi Analytics** Specialization
 
 </td>
 <td width="20%" align="center">
 
 ### 🟢 **Status**
+
 ![Status](https://img.shields.io/badge/System-ONLINE-brightgreen?style=for-the-badge&logo=power&logoColor=white)
 
 **Mode:** ALPHA GENERATION  
 **Availability:** ACTIVE  
-**Collaboration:** OPEN  
+**Collaboration:** OPEN
 
 </td>
 </tr>
@@ -91,51 +96,56 @@
 <td width="33%" align="center">
 
 ### 💻 **Programming Stack**
+
 ![Programming](https://img.shields.io/badge/Programming-Expert-success?style=for-the-badge&logo=code&logoColor=white)
 
-| Language | Proficiency |
-|:---:|:---:|
+|                                                  Language                                                  |                               Proficiency                                |
+| :--------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
 | ![Python](https://img.shields.io/badge/Python-Expert-3776ab?style=flat-square&logo=python&logoColor=white) | ![95%](https://img.shields.io/badge/95%25-brightgreen?style=flat-square) |
-| ![C++](https://img.shields.io/badge/C++-Advanced-00599c?style=flat-square&logo=cplusplus&logoColor=white) | ![85%](https://img.shields.io/badge/85%25-green?style=flat-square) |
-| ![Java](https://img.shields.io/badge/Java-Advanced-ed8b00?style=flat-square&logo=java&logoColor=white) | ![80%](https://img.shields.io/badge/80%25-green?style=flat-square) |
-| ![R](https://img.shields.io/badge/R-Proficient-276dc3?style=flat-square&logo=r&logoColor=white) | ![75%](https://img.shields.io/badge/75%25-yellow?style=flat-square) |
+| ![C++](https://img.shields.io/badge/C++-Advanced-00599c?style=flat-square&logo=cplusplus&logoColor=white)  |    ![85%](https://img.shields.io/badge/85%25-green?style=flat-square)    |
+|   ![Java](https://img.shields.io/badge/Java-Advanced-ed8b00?style=flat-square&logo=java&logoColor=white)   |    ![80%](https://img.shields.io/badge/80%25-green?style=flat-square)    |
+|      ![R](https://img.shields.io/badge/R-Proficient-276dc3?style=flat-square&logo=r&logoColor=white)       |   ![75%](https://img.shields.io/badge/75%25-yellow?style=flat-square)    |
 
 </td>
 <td width="33%" align="center">
 
 ### 🤖 **AI & Machine Learning**
+
 ![AI ML](https://img.shields.io/badge/AI%20ML-Expert-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-| Framework | Proficiency |
-|:---:|:---:|
-| ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-ee4c2c?style=flat-square&logo=pytorch&logoColor=white) | ![98%](https://img.shields.io/badge/98%25-brightgreen?style=flat-square) |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) | ![88%](https://img.shields.io/badge/88%25-green?style=flat-square) |
-| ![YOLOv8](https://img.shields.io/badge/YOLOv8-Specialist-00FFFF?style=flat-square&logo=opencv&logoColor=white) | ![85%](https://img.shields.io/badge/85%25-green?style=flat-square) |
-| ![GPT-4](https://img.shields.io/badge/GPT--4-Integrated-412991?style=flat-square&logo=openai&logoColor=white) | ![92%](https://img.shields.io/badge/92%25-brightgreen?style=flat-square) |
+|                                                        Framework                                                         |                               Proficiency                                |
+| :----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+|      ![PyTorch](https://img.shields.io/badge/PyTorch-Expert-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)       | ![98%](https://img.shields.io/badge/98%25-brightgreen?style=flat-square) |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) |    ![88%](https://img.shields.io/badge/88%25-green?style=flat-square)    |
+|      ![YOLOv8](https://img.shields.io/badge/YOLOv8-Specialist-00FFFF?style=flat-square&logo=opencv&logoColor=white)      |    ![85%](https://img.shields.io/badge/85%25-green?style=flat-square)    |
+|      ![GPT-4](https://img.shields.io/badge/GPT--4-Integrated-412991?style=flat-square&logo=openai&logoColor=white)       | ![92%](https://img.shields.io/badge/92%25-brightgreen?style=flat-square) |
 
 </td>
 <td width="33%" align="center">
 
 ### 📊 **Quantitative Finance**
+
 ![Quant](https://img.shields.io/badge/Quantitative-Finance-FF6B6B?style=for-the-badge&logo=chart-bar&logoColor=white)
 
-| Library | Proficiency |
-|:---:|:---:|
-| ![QuantLib](https://img.shields.io/badge/QuantLib-Expert-FF6B6B?style=flat-square&logo=python&logoColor=white) | ![95%](https://img.shields.io/badge/95%25-brightgreen?style=flat-square) |
-| ![NumPy](https://img.shields.io/badge/NumPy-Master-013243?style=flat-square&logo=numpy&logoColor=white) | ![98%](https://img.shields.io/badge/98%25-brightgreen?style=flat-square) |
-| ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white) | ![96%](https://img.shields.io/badge/96%25-brightgreen?style=flat-square) |
-| ![TA-Lib](https://img.shields.io/badge/TA--Lib-Specialist-4B8BBE?style=flat-square&logo=python&logoColor=white) | ![88%](https://img.shields.io/badge/88%25-green?style=flat-square) |
+|                                                     Library                                                     |                               Proficiency                                |
+| :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| ![QuantLib](https://img.shields.io/badge/QuantLib-Expert-FF6B6B?style=flat-square&logo=python&logoColor=white)  | ![95%](https://img.shields.io/badge/95%25-brightgreen?style=flat-square) |
+|     ![NumPy](https://img.shields.io/badge/NumPy-Master-013243?style=flat-square&logo=numpy&logoColor=white)     | ![98%](https://img.shields.io/badge/98%25-brightgreen?style=flat-square) |
+|   ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white)    | ![96%](https://img.shields.io/badge/96%25-brightgreen?style=flat-square) |
+| ![TA-Lib](https://img.shields.io/badge/TA--Lib-Specialist-4B8BBE?style=flat-square&logo=python&logoColor=white) |    ![88%](https://img.shields.io/badge/88%25-green?style=flat-square)    |
 
 </td>
 </tr>
 </table>
 
 ---
+
 ---
 
 <div align="center">
 
 ## 🎓 Currently Exploring
+
 <em>Bridging decision‑making under uncertainty, scalable optimization, and physics‑informed ML — with a dash of quantum.</em>
 
 </div>
@@ -201,15 +211,15 @@
 <details>
   <summary><b>Quick notes</b></summary>
 
-- RL: from value‑based to policy‑gradient; emphasis on safe/offline RL for real constraints  
-- Measure theory: martingales, stopping times, stochastic integration  
-- FNOs: fast PDE surrogates via operator learning  
-- Quantum: encode finance/optimization as Ising problems; variational solvers  
-- Bayesian ML: priors, calibration, VI–MCMC trade‑offs  
-- MIP: cutting planes + hybrid MILP/heuristics for scale  
-- HPC: profiling, GPU/TPU acceleration for large workloads  
-- LinAlg: CG/GMRES, spectral properties, preconditioners  
-- Optimization: relaxations for non‑convexity; metaheuristics for combinatorics  
+- RL: from value‑based to policy‑gradient; emphasis on safe/offline RL for real constraints
+- Measure theory: martingales, stopping times, stochastic integration
+- FNOs: fast PDE surrogates via operator learning
+- Quantum: encode finance/optimization as Ising problems; variational solvers
+- Bayesian ML: priors, calibration, VI–MCMC trade‑offs
+- MIP: cutting planes + hybrid MILP/heuristics for scale
+- HPC: profiling, GPU/TPU acceleration for large workloads
+- LinAlg: CG/GMRES, spectral properties, preconditioners
+- Optimization: relaxations for non‑convexity; metaheuristics for combinatorics
 - Stochastic calculus: risk‑neutral pricing, Greeks, variance reduction
 </details>
 
@@ -219,7 +229,8 @@
 <div align="center">
 
 ## 💼 **PROJECT PORTFOLIO**
-*Complete Mission-Critical Financial Technology Solutions*
+
+_Complete Mission-Critical Financial Technology Solutions_
 
 </div>
 
@@ -228,6 +239,7 @@
 <td width="33%" align="center">
 
 ### 🚀 **[AlgoUltron](https://github.com/vimal0156/algo-ultron-trading)**
+
 ![AlgoUltron](https://img.shields.io/badge/Status-🔥%20PRODUCTION-brightgreen?style=for-the-badge)
 
 **Advanced Algorithmic Trading Platform**
@@ -235,13 +247,13 @@
 ```yaml
 impact:
   automation_gain: "40% ↓ manual trades"
-  sharpe_improvement: "7-10% ↑ baseline" 
+  sharpe_improvement: "7-10% ↑ baseline"
   alpha_generation: "15%+ consistent"
   risk_management: "Real-time monitoring"
 
 features:
   - Multi-strategy deployment
-  - Advanced risk assessment  
+  - Advanced risk assessment
   - TradingView integration
   - Portfolio optimization
 ```
@@ -252,6 +264,7 @@ features:
 <td width="33%" align="center">
 
 ### 🧠 **[AlgoStockGPT-AI](https://github.com/vimal0156/AlgoStockGPT-AI)**
+
 ![AlgoStockGPT](https://img.shields.io/badge/Status-🎯%20ALPHA%20GEN-gold?style=for-the-badge)
 
 **AI-Powered Financial Oracle**
@@ -276,6 +289,7 @@ features:
 <td width="33%" align="center">
 
 ### ⚡ **[BlockFinAI](https://github.com/vimal0156/BlockFinAI)**
+
 ![BlockFinAI](https://img.shields.io/badge/Status-⛓️%20BLOCKCHAIN-purple?style=for-the-badge)
 
 **DeFi Analytics Powerhouse**
@@ -302,6 +316,7 @@ features:
 <td width="33%" align="center">
 
 ### 💻 **[GitHub Copilot Codespaces](https://github.com/vimal0156/skills-copilot-codespaces-vscode)**
+
 ![Copilot](https://img.shields.io/badge/Status-⚡%20DEV%20MAX-blue?style=for-the-badge)
 
 **Advanced Development Environment**
@@ -316,7 +331,7 @@ development_stack:
 dev_skills:
   - AI-assisted programming workflows
   - Cloud-native development practices
-  - Collaborative coding environments  
+  - Collaborative coding environments
   - Advanced Git and automation
 ```
 
@@ -326,6 +341,7 @@ dev_skills:
 <td width="33%" align="center">
 
 ### 🧠 **[Ruaroa AI](https://github.com/vimal0156/ruaroa-ai)**
+
 ![RuaroaAI](https://img.shields.io/badge/Status-🚀%20INNOVATION-green?style=for-the-badge)
 
 **Next-Gen AI Solutions Platform**
@@ -349,6 +365,7 @@ features:
 <td width="33%" align="center">
 
 ### ⚛️ **[QuantumTrade-Nexus](https://github.com/vimal0156/QuantumTrade-Nexus)**
+
 ![QuantumTrade](https://img.shields.io/badge/Status-🔬%20QUANTUM-cyan?style=for-the-badge)
 
 **Advanced Trading Intelligence Platform**
@@ -375,6 +392,7 @@ features:
 <td width="33%" align="center">
 
 ### 🫀 **[ECG-Arrhythmia-Detection-IOS-app](https://github.com/vimal0156/ECG-Arrhythmia-Detection-IOS-app)**
+
 ![ECG](https://img.shields.io/badge/Status-❤️%20HEALTH%20AI-red?style=for-the-badge)
 
 **Medical AI iOS Application**
@@ -399,6 +417,7 @@ features:
 <td width="33%" align="center">
 
 ### 📊 **[Cardinality-Constrained-Portfolio-Selection](https://github.com/vimal0156/Cardinality-Constrained-Portfolio-Selection)**
+
 ![Portfolio](https://img.shields.io/badge/Status-💎%20OPTIMIZATION-orange?style=for-the-badge)
 
 **Advanced Portfolio Optimization**
@@ -516,7 +535,7 @@ features:
 
 ### 💭 **Core Philosophy**
 
-*"In quantitative finance, alpha emerges not from avoiding risk, but from understanding, modeling, and systematically exploiting market inefficiencies through advanced analytics and AI-driven insights."*
+_"In quantitative finance, alpha emerges not from avoiding risk, but from understanding, modeling, and systematically exploiting market inefficiencies through advanced analytics and AI-driven insights."_
 
 </div>
 
