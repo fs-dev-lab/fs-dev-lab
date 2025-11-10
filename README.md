@@ -7,7 +7,7 @@
   <h1>👑 Senior AI & Full Stack Developer 👑</h1>
 </div>
 
-<table border="none">
+<table border="0">
   <tr>
     <td width="50%">
       <p>
