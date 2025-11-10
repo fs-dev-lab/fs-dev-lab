@@ -1,7 +1,12 @@
 <div align="center">
 
 <!-- Fixed Animated Header with Better Sizing -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Welcome%20to%20my%20Github!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<img 
+  src=
+    "https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=150&section=header&text=Welcome%20to%20my%20Github!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" 
+  width="100%"
+/>
 
 ## 🎯 Quantitative Finance Analyst | 🤖 AI & ML Engineer | 📊 Algo Trading Specialist
 
