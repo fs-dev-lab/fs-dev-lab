@@ -1,24 +1,28 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=header&text=Senior%20AI%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
   />
+
+  <h1>👑 Senior AI & Full Stack Developer 👑</h1>
 </div>
 
-<div align="center">
-  <img
+<!-- <img
     src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif"
     width="16px"
     align="left"
-  />
-  <img
+  /> -->
+
+<img
     src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif"
     width="16px"
     align="right"
   />
+
   <h2>🔥 My Tech Stacks!</h2>
   <br />
-  <br />
+  <!-- <br /> -->
+<div align="center">
 
 ![My
   Skills](https://skillicons.dev/icons?i=androidstudio,angular,atom,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,dart,django,docker,dotnet,eclipse,express,figma,firebase,flask,flutter,gcp,git,github,githubactions,gitlab,go,gradle,gulp,heroku,html,idea,java,js,jquery,kotlin,linkedin,linux,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,ps,php,rust,svelte,tauri,electron,postgres,powershell,py,pytorch,qt,react,redux,regex,sass,sqlite,stackoverflow,svg,tailwind,tensorflow,twitter,ts,unity,unreal,vercel,visualstudio,vite,vscode,vue,webflow,webpack,wordpress&perline=15)
