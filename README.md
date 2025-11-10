@@ -7,18 +7,30 @@
   <h1>👑 Senior AI & Full Stack Developer 👑</h1>
 </div>
 
-<div style="height: 400px; width: 100%">
-  <div style = "position: relative; height: 100%; width: 50%">
-    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="100%" height="100%" />
+<div style="display: flex; height: 400px; width: 100%;">
+  
+  <!-- Left block -->
+  <div style="width: 50%; padding-right: 20px;">
+    <p>
+      Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 &
+      Cryptocurrency engineer with over 4 years of experience in BlockChain and
+      over 7 years in web, mobile and desktop applications. Possesses diverse
+      experience building scalable applications using multiple modern tech
+      stacks. Led successful transitions from MEAN/MERN to Web3 technologies,
+      implementing DAO, DEX, DApps, and NFT Marketplaces using Solidity, Rust,
+      and Web3. Experienced in all stages of the software development lifecycle.
+    </p>
   </div>
-  <div>
-  <p>
 
-Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3.
-Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
-
-</p>
+  <!-- Right block -->
+  <div style="width: 50%; display: flex; justify-content: flex-end;">
+    <img
+      alt="GIF"
+      src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif"
+      style="width: 100%; height: 100%; object-fit: cover;"
+    />
   </div>
+
 </div>
 
 <!-- <img
