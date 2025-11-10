@@ -8,9 +8,9 @@
   width="100%"
 />
 
-## 🎯 Quantitative Finance Analyst | 🤖 AI & ML Engineer | 📊 Algo Trading Specialist
+## 👑 Senior AI & Full Stack Developer 👑
 
-![Profile Views](https://komarev.com/ghpvc/?username=vimal0156&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=vimal0156&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS) -->
 
 </div>
 
