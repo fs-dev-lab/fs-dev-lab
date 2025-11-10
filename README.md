@@ -7,31 +7,30 @@
   <h1>👑 Senior AI & Full Stack Developer 👑</h1>
 </div>
 
-<table style="border: none">
-  <tr>
-    <td width="50%">
-      <p>
-        Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 &
-        Cryptocurrency engineer with over 4 years of experience in BlockChain and
-        over 7 years in web, mobile and desktop applications design,
-        development, and maintenance. Possesses diverse experience creating
-        highly scalable applications using different tech stacks. Led a 
-        successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency
-        Stack to improve Web3.0 system performance — implementing DAO, DEX, DApp,
-        NFT Marketplaces using Solidity, Rust, and Web3. Experienced in all
-        phases of the project life cycle.
-      </p>
-    </td>
-    <td width="50%">
-      <img
-        alt="GIF"
-        src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif"
-        width="100%"
-        height="200px"
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div style="width: 48%;">
+    <p>
+      Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 &
+      Cryptocurrency engineer with over 4 years of experience in BlockChain and
+      over 7 years in web, mobile and desktop applications design,
+      development, and maintenance. Possesses diverse experience creating
+      highly scalable applications across multiple stacks. Led a transition from
+      MEAN & MERN Stack to Web3 & Cryptocurrency Stack — implementing DAO, DEX,
+      DApp, NFT Marketplaces using Solidity, Rust, and Web3. Experienced in all
+      phases of the project life cycle.
+    </p>
+  </div>
+
+  <div style="width: 48%;">
+    <img
+      alt="GIF"
+      src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif"
+      width="100%"
+    />
+  </div>
+
+</div>
 <!-- <img
     src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif"
     width="16px"
