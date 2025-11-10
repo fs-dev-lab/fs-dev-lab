@@ -1,11 +1,19 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=160&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
   />
 
   <h1>👑 Senior AI & Full Stack Developer 👑</h1>
 </div>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
+  <p>
+
+Creative, Passionate, and Efficient Senior Full-Stack developer and Web3 & Cryptocurrency engineer with over 4 years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3.
+Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
+
+</p>
 
 <!-- <img
     src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif"
