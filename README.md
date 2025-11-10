@@ -8,7 +8,7 @@
   width="100%"
 />
 
-## 👑 Senior AI & Full Stack Developer 👑
+<h1> 👑 Senior AI & Full Stack Developer 👑 </h1>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=vimal0156&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS) -->
 
