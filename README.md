@@ -1,12 +1,12 @@
-# <h1 align="center">
+<div align="center">
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  AI & Full Stack Developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# AI & Full Stack Developer
 
-</h1>
+### Transforming ideas into production-ready applications
 
-### <h4 align="center">Transforming ideas into production-ready applications</h4>
+</div>
+
+---
 
 ## About Me
 
