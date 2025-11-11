@@ -12,10 +12,6 @@
 
 **Full Stack Developer** specializing in building **scalable, high-performance web applications** that solve real-world problems. I excel at the intersection of **modern development practices** and **cutting-edge AI tools**, leveraging the best of both worlds to deliver exceptional products.
 
-<div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9654-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
-</div>
-
 ### What Drives Me
 
 - **End-to-end ownership** — From initial concept to production deployment
@@ -183,12 +179,11 @@
     </td>
  </tr>
 </table>
-<br><br>
 </div>
 
 ---
 
----
+## Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
