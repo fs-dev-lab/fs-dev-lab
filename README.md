@@ -16,37 +16,13 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div>
+### What Drives Me
 
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Tirana, Albania</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="http://www.danielcela.com/" target="_blank"><strong>Portfolio</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:danielcela.contact@gmail.com"><strong>danielcela.contact@gmail.com</strong></a>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>real-time data apps for international sports</strong>
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
-  </li>
-</ul>
-
-<p align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
-</p>
-<p align="center">
-  <a href="https://github.com/H-Builder"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=45&pause=1000&color=F7BCA0&center=true&vCenter=true&width=1000&height=100&lines=I+am+Senior+Video+Software+Engineer;I+will+give+you+wonderful+project;I+am+available+now;Thank+you" alt="Typing SVG" /></a>
-</p>
-
-- 👯 I’m looking to collaborate on **full stack projects or internships.**
+- **End-to-end ownership** — From initial concept to production deployment
+- **AI-augmented development** — Embracing Claude, Copilot, and modern AI tools to maximize productivity
+- **Architecture-first thinking** — Building maintainable, scalable systems that stand the test of time
+- **Performance obsessed** — Writing clean, efficient code that delivers results
+- **Continuous learner** — Always exploring emerging technologies and best practices
 
 # 💻 My favorite tools and technologies
 
