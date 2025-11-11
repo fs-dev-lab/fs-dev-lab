@@ -1,10 +1,16 @@
-<h1 align="center">
+# <h1 align="center">
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to my Github!
+  AI & Full Stack Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 </h1>
 
-<h2 align="center">Software Engineer who is specialized in AI & Full Stack development.</h2>
+### <h4 align="center">Transforming ideas into production-ready applications</h4>
+
+## About Me
+
+**Full Stack Developer** specializing in building **scalable, high-performance web applications** that solve real-world problems. I excel at the intersection of **modern development practices** and **cutting-edge AI tools**, leveraging the best of both worlds to deliver exceptional products.
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
