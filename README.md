@@ -12,7 +12,7 @@
 
 **Full Stack Developer** specializing in building **scalable, high-performance web applications** that solve real-world problems. I excel at the intersection of **modern development practices** and **cutting-edge AI tools**, leveraging the best of both worlds to deliver exceptional products.
 
-<div>
+<div style="margin-left: 5px">
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
