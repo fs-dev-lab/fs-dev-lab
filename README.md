@@ -187,6 +187,8 @@
 
 ## 🏆 Github Trophies
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+
 ---
 
 <p align="center">
@@ -196,8 +198,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+## 💬 Let's Connect!
 
-### 💬 Let's Connect!
-
-Feel free to reach out for collaboration or just to say hi! I'm always open to discussing new projects and ideas. Let's start
+Feel free to reach out for collaboration or just to say hi! I'm always open to discussing new projects and ideas.
