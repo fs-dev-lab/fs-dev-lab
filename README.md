@@ -16,13 +16,13 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### I'll make everything perfectly
+### What Drives Me
 
-- **End-to-end ownership**
-- **AI-augmented development**
-- **Architecture-first thinking**
-- **Performance obsessed**
-- **Continuous learner**
+- **End-to-end ownership** — From initial concept to production deployment
+- **AI-augmented development** — Embracing Claude, Copilot, and modern AI tools to maximize productivity
+- **Architecture-first thinking** — Building maintainable, scalable systems that stand the test of time
+- **Performance obsessed** — Writing clean, efficient code that delivers results
+- **Continuous learner** — Always exploring emerging technologies and best practices
 
 <div> </div>
 
