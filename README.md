@@ -1,14 +1,14 @@
 <div align="center">
 
-# AI & Full Stack Developer
+# ⚜ AI & Full Stack Developer ⚜
 
-### Transforming ideas into production-ready applications
+#### Transforming ideas into production-ready applications
 
 </div>
 
 ---
 
-## About Me
+## ✒ About Me
 
 **Full Stack Developer** specializing in building **scalable, high-performance web applications** that solve real-world problems. I excel at the intersection of **modern development practices** and **cutting-edge AI tools**, leveraging the best of both worlds to deliver exceptional products.
 
@@ -26,7 +26,7 @@
 
 <div> </div>
 
-## Technology Stack & Tools
+## ⚡ Technology Stack & Tools
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -185,7 +185,7 @@
 </table>
 </div>
 
-## Github Trophies
+## 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=bytenomad092&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
