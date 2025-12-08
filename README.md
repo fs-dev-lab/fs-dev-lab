@@ -12,8 +12,6 @@
 </p>
 </div>
 
--
-
 ## ✒ About Me
 
 **Full Stack Developer** specializing in building **scalable, high-performance web applications** that solve real-world problems. I excel at the intersection of **modern development practices** and **cutting-edge AI tools**, leveraging the best of both worlds to deliver exceptional products.
