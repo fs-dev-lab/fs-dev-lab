@@ -3,15 +3,15 @@
 # ⚜ AI & Full Stack Developer ⚜
 
 <p align="center">
-  <a href="https://discord.gg/your-invite-code">
+  <a href="https://discord.gg/fscodeaxis">
     <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://t.me/your-username">
+  <!-- <a href="https://t.me/your-username">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  </a> -->
 </p>
 
-#### Transforming ideas into production-ready applications
+<!-- #### Transforming ideas into production-ready applications -->
 
 </div>
 
