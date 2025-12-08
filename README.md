@@ -10,12 +10,9 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
   </a> -->
 </p>
-
-<!-- #### Transforming ideas into production-ready applications -->
-
 </div>
 
----
+-
 
 ## ✒ About Me
 
@@ -197,3 +194,12 @@
 ## 💬 Let's Connect!
 
 Feel free to reach out for collaboration or just to say hi! I'm always open to discussing new projects and ideas.
+
+<p align="center">
+  <a href="https://discord.gg/fscodeaxis">
+    <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <!-- <a href="https://t.me/your-username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
+  </a> -->
+</p>
