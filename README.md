@@ -1,14 +1,14 @@
 <div align="center">
 
-# ⚜ AI & Full Stack Developer ⚜
+# ⚜ Full Stack Developer ⚜
 
 <p align="center">
   <a href="https://discord.gg/fscodeaxis">
     <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <!-- <a href="https://t.me/your-username">
+  <a href="https://t.me/fscodeaxis">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
-  </a> -->
+  </a>
 </p>
 </div>
 
@@ -197,7 +197,7 @@ Feel free to reach out for collaboration or just to say hi! I'm always open to d
   <a href="https://discord.gg/fscodeaxis">
     <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <!-- <a href="https://t.me/your-username">
+   <a href="https://t.me/fscodeaxis">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
-  </a> -->
+  </a>
 </p>
