@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚜ Full Stack Developer ⚜
+# ⚜ Senior Full Stack Developer ⚜
 
 <p align="center">
   <a href="https://discord.gg/fscodeaxis">
