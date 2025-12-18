@@ -189,6 +189,61 @@
 </table>
 </div>
 
+## 📂 Featured Repos
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">TL;DR</th>
+      <th align="left">Tech</th>
+      <th align="left">Live / Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong> React-dashboard </strong></td>
+      <td>Isomorphic admin dashboard template.</td>
+      <td>React.js · Bootstrap · Node.js · GraphQL</td>
+      <td><a href="https://github.com/fs-dev-lab/react-dashboard">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong> Ting </strong></td>
+      <td>A music social networking project.</td>
+      <td>Ruby on Rails · Semantic-UI</td>
+      <td><a href="https://github.com/fs-dev-lab/ting">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong> Electronics-ecommerce-shop </strong></td>
+      <td>Singitronic is full-stack e-commerce website.</td>
+      <td>Next.js · Node.js</td>
+      <td><a href="https://github.com/fs-dev-lab/electronics-ecommerce-shop">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong> Atria </strong></td>
+      <td>Virtual and Hybrid Event management platform with real-time networking features.</td>
+      <td>Python · Flask · React · Socket.io</td>
+      <td><a href="https://github.com/fs-dev-lab/atria">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong> Django-ninja-crud </strong></td>
+      <td>Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.</td>
+      <td>Python · Django</td>
+      <td><a href="https://github.com/fs-dev-lab/django-ninja-crud">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong> Golang-clean-web-api </strong></td>
+      <td>Golang Clean architecture REST API.</td>
+      <td>Go · Redis · Elastic Search</td>
+      <td><a href="https://github.com/fs-dev-lab/golang-clean-web-api">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 ## 💬 Let's Connect!
 
 Feel free to reach out for collaboration or just to say hi! I'm always open to discussing new projects and ideas.
