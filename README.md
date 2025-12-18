@@ -3,6 +3,9 @@
 # ⚜ Senior Full Stack Developer ⚜
 
 <p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=coltonro820@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://discord.gg/fscodeaxis">
     <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -249,6 +252,9 @@
 Feel free to reach out for collaboration or just to say hi! I'm always open to discussing new projects and ideas.
 
 <p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=coltonro820@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://discord.gg/fscodeaxis">
     <img src="https://img.shields.io/badge/Discord-7289da?logo=discord&logoColor=white" alt="Discord" />
   </a>
