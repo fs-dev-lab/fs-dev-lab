@@ -2,11 +2,6 @@
 
 # ⚜ Senior Software Engineer ⚜
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jason.lee.ai82@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
 </div>
 
 ## ✒ About Me
@@ -187,9 +182,3 @@
 ## 💬 Let's Connect!
 
 Feel free to reach out for collaboration! I'm always open to discussing new projects and ideas.
-
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jason.lee.ai82@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
